@@ -798,3 +798,6 @@ PATTERN 3: High Performance Computing
 ```
 
 ---
+
+*Última actualización: Julio 2025 - Preparación SAA-C03*
+** Roberto Ayra**

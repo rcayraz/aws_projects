@@ -571,3 +571,4 @@ Amazon EC2 es fundamental en cualquier arquitectura AWS. Como arquitecto, debes 
 ---
 
 *Última actualización: Julio 2025 - Preparación SAA-C03*
+** Roberto Ayra**

@@ -1603,3 +1603,4 @@ Level 3 (Emergency):
 **📌 Última actualización:** Julio 2025  
 **👨‍💻 Nivel:** Arquitecto AWS  
 **🎯 Objetivo:** Certificación AWS Solutions Architect
+** Roberto Ayra**

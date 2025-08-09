@@ -2447,3 +2447,4 @@ for your Auto Scaling Groups..."
 *📝 Documento actualizado: 17 de julio de 2025*
 *👨‍💻 AWS Solutions Architect Certification Training*
 *🎯 Clases 1-11 Completadas - Ready for Certification!*
+** Roberto Ayra**
